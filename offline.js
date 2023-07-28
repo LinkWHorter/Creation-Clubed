@@ -1,0 +1,31 @@
+﻿{
+	"version": 1690577232,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/sprite-sheet2.png",
+		"images/tiledbackground.png",
+		"images/green-sheet0.png",
+		"images/green-sheet1.png",
+		"images/tverdiy-sheet0.png",
+		"images/gate-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/greentick.png",
+		"images/reddtick.png",
+		"images/spawnedtick.png",
+		"images/portal-sheet0.png",
+		"images/backs-sheet0.png",
+		"images/joy-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
